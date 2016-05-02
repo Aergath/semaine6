@@ -29,52 +29,69 @@ body
 .leaderboard {
     background-color: #ffffe6;
     height: 350px;
+    border : solid black ;
+    border-width: 5px 5px 5px 0px;
 }
 
 .art {
     background-color: #ffb3b3;
     height: 250px;
+    border : solid black ;
+    border-width: 5px 5px 5px 0px;
 }
 .diary {
     background-color: #ffff99;
     height: 250px;
+border : solid black 5px;
 }
 .earth {
     background-color: #ff8080;
     height: 350px;
+border : solid black 5px;
 }
 .food {
     background-color: #99ffdd;
     height: 250px;
+border : solid black 5px;
 }
 .fossil {
-    background-color: #66e0ff;
-    height: 200px;
+    background-color: #b3ecff;
+     height: 200px;
+    border : solid black ;
+    border-width: 5px 0px 5px 5px;
 }
 .music {
     background-color: #b3ecff;
     height: 200px;
+    border : solid black 5px;
     
 }
 
 .profile {
     background-color: #ffffe6;
     height: 200px;
+    border : solid black ;
+    border-width: 5px 0px 5px 5px;
 }
 
 .science {
     background-color: #99ffdd;
     height: 200px;
+    border : solid black 5px;
+    
 }
 
 .sport {
     background-color: #cc99ff;
     height: 250px;
+border : solid black 5px;
 }
 
 .tv {
     background-color: #cc99ff;
     height: 200px;
+    border : solid black;
+    border-width: 5px 0px 5px 5px;
 }
 
 .art_text {
