@@ -1,0 +1,61 @@
+ body{
+   padding:0;
+   margin:0;
+   color:black;
+   font-family: Verdana;
+   
+}
+
+header {
+    background-image: url("http://aergath.atspace.eu/use_your_illusion.png");
+    width: 100%;
+    padding: 10px;
+    color:white;
+    font-family: Arial;
+    text-align : center;
+    margin : auto;
+}
+
+img {
+    Height: 150px;
+    width: 150px;
+    float: left;
+}
+
+footer { 
+    margin: auto;
+    background-image: url("http://aergath.atspace.eu/stardust.png");
+    width: 100%;
+    padding: 10px; 
+    font-family: Arial;
+    color :white;
+    display: inline-block;
+    vertical-align: top;
+    
+}    
+
+main {
+    margin: auto;
+    width: 100%;
+    background-image: url("http://aergath.atspace.eu/ravenna.png");
+    
+}
+
+}
+
+iframe {
+    width: 50%;
+    height :50%;
+}
+a {
+    color: cyan;
+    font-family : Times;
+   
+}
+footer p {
+    margin: 20px;
+    text-align:center;
+    display: inline-block;
+    vertical-align: top;
+    
+   }
