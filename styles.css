@@ -1,0 +1,208 @@
+header { 
+    background-color: #00bfff;
+    height: 80px;
+}
+
+body
+{text-align: center;
+}
+.user {
+    height: 75px;
+    
+    float: left;
+}
+
+.white { 
+    text-align: left;
+    line-height: 75px;
+    color: white;
+    float: left;
+}
+
+.right {
+    text-align: right;
+    color: white;
+    float: right;
+    line-height: 75px;
+}
+
+.leaderboard {
+    background-color: #ffffe6;
+    height: 350px;
+}
+
+.art {
+    background-color: #ffb3b3;
+    height: 250px;
+}
+.diary {
+    background-color: #ffff99;
+    height: 250px;
+}
+.earth {
+    background-color: #ff8080;
+    height: 350px;
+}
+.food {
+    background-color: #99ffdd;
+    height: 250px;
+}
+.fossil {
+    background-color: #66e0ff;
+    height: 200px;
+}
+.music {
+    background-color: #b3ecff;
+    height: 200px;
+    
+}
+
+.profile {
+    background-color: #ffffe6;
+    height: 200px;
+}
+
+.science {
+    background-color: #99ffdd;
+    height: 200px;
+}
+
+.sport {
+    background-color: #cc99ff;
+    height: 250px;
+}
+
+.tv {
+    background-color: #cc99ff;
+    height: 200px;
+}
+
+.art_text {
+    background-color: #ff8080;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}    
+.cup_text {
+    background-color: #a6a6a6;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+    
+}    
+.diary_text {
+    background-color: #ffff00;
+    color: black;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}    
+.earth_text {
+    background-color: #ff4d4d;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}    
+.food_text {
+    background-color: #4dffdb;
+    color: black;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}    
+.fossil_text {
+    background-color: #00ccff;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}    
+    
+.music_text {
+    background-color: #4dd2ff;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}
+
+.profile_text {
+    background-color: #a6a6a6;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}  
+
+.science_text {
+    background-color: #4dffdb;
+    color: black;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}  
+
+.sport_text {
+    background-color: #a64dff;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}
+
+.tv_text {
+    background-color: #a64dff;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}
+
+.user_text {
+    background-color: #a6a6a6;
+    color: white;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}  
+
+img { 
+    height: 100px;
+}
+
+.icon {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width:150px;
+   height: 150px;
+   margin-top: -75px; /* Half the height */
+   margin-left: -75px; /* Half the width */
+}
